@@ -4,7 +4,6 @@
 
 This is a basic introduction to Java Unit Testing using JUnit 5. By some specific annotations of JUnit, it provides the unit testing functions
 
-
 ## Features
 
 * Understanding the functions of annotations
@@ -12,13 +11,17 @@ This is a basic introduction to Java Unit Testing using JUnit 5. By some specifi
 * Setting up and shutting down constructors used during testing
 * Understanding the fundamentals of Unit Testing
 
+> [!IMPORTANT]
+> When you create your test objects, you should create the test classes into `src/test/java/com/example/junit2`.
+> The `test` keyword is significantly important while creating the test classes
+
 ## Prerequisities
 
 * Springboot and Java Extension Packs
 * Visual Studio Code for Platform to use since this project is created as Maven Project
 
 >[!WARNING]
-> Before starting you should create Java Maven Project in Visual Studio Code
+> Before starting, you should create Java Maven Project in Visual Studio Code
 
 ## Tools & Platforms
 
@@ -29,7 +32,7 @@ This is a basic introduction to Java Unit Testing using JUnit 5. By some specifi
 
 ## Youtube Links
 > [!TIP]
-> Those links below are helpers to both learn JUnit testing and to set Springboot and Java Packs for Visual Studio Code
+> Those Youtube links below are helpers to both learn JUnit testing and to set Springboot and Java Packs for Visual Studio Code
 
 
 [![JUnit Tutorial](https://i.ytimg.com/vi/YXV51LVmfok/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDo3Xh7iH1t-O2diN4PGDgkIwlhMg)](https://www.youtube.com/playlist?list=PLGRDMO4rOGcNhqxHpVjQP80tLRTxis__x) 
